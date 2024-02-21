@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm QA engineer
-##### [My CV](https://beliasau.github.io/my_cv/)
+#### [My CV](https://beliasau.github.io/my_cv/)
 ### My certificates:  
 + [SQL](https://raw.githubusercontent.com/Beliasau/SQL/main/HW_Ksendzov/Aliaksandr%20Beliasau_SQL.png)   
 + [GIT](https://raw.githubusercontent.com/Beliasau/Git/main/Aliaksandr%20Beliasau_GIT.png)   
